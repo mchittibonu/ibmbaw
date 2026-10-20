@@ -1,4 +1,4 @@
-# This is developed my Mahesh Chittibonu.
+# This is developed by Mahesh Chittibonu.
 
 # IBM Cloud Pak for Business Automation (CP4BA) with BAW on Azure ARO
 
